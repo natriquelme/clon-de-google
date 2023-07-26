@@ -1,5 +1,5 @@
-
-# Clon de Google (HTML, CSS)
+# clon-de-google
+ # Clon de Google (HTML, CSS)
 
 Proyecto realizado con la intención de aplicar los conocimientos obtenidos en el bootcamp de Tecnolochicas PRO Summer Camp.
 
@@ -68,3 +68,4 @@ Realizarse de manera individual
 
 
 Happy coding!❤
+
